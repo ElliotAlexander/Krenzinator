@@ -1,0 +1,4 @@
+name: Krenzinator
+version: 1.0
+main: uk.co.ElllzUHC.Krenzinator
+depend: [ScenarioManager]
